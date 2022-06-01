@@ -10,6 +10,4 @@ fork this repo and [main repo](https://github.com/sandy1709/catuserbot) and clic
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## credits
-   - [@midnightmadwalk](https://t.me/midnightmadwalk)
-   - [@DeletedUser420](https://t.me/DeletedUser420)
+
