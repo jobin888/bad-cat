@@ -1,13 +1,13 @@
 {
   "name": "Catuserbot",
-  "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
+  "description": "A simple Telegram userbot based on Telethon . Maintained by Jisan ",
   "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/Jisan09/catuserbot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -58,7 +58,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Use either goodcat or badcat .if you need custom deploy then type your git repo link",
-      "value": "goodcat",
+      "value": "badcat",
       "required": false
     }
   },
